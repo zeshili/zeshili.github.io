@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 18th Dec 2023 &nbsp;
 
 ## Scholarships
 
@@ -40,9 +40,9 @@ Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 - May 2023：XiamenAir Scholarship (Top 1%)<br>Funded by Xiamen Airline, 30 students each year
 - May 2023：Outstanding Student Leaders of FZU
 - May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+- July 2023：_Nomination for Baosteel Scholarship_
+- Sep 2022：_Nomination for China National Scholarship_
+- June 2022：_Nomination for China Telecom Scholarship_<br>
 
 ## Services
 

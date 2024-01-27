@@ -4,41 +4,69 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 28th Dec 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: Jan 27, 2024&nbsp;
 
-## Conference Paper
+## Summary of Papers
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://caihanlin.com/file/404/) (Under Final Revision)<br>*Final year project (FYP)*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium/))<br>Vancouver, Canada. February, 2024.
+- \[Preprint\] [Inclusiveness Matters: A Large-Scale Analysis of User Feedback](file/papers/preprint_inclusive.pdf) <br>
+  Nowshin Nawar Arony\*, <b>Ze Shi Li\*</b>, Bowen Xu, and Daniela Damian <br> \* Co-first authors
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+- \[Preprint\] [Practices and Challenges of Conducting Requirement Engineering in Remote and Hybrid Work: A Mixed Method Study](file/papers/.pdf) <br>
+  <b>Ze Shi Li\*</b>, Delina Ly, Lukas Nagel, Nowshin Nawar Arony, and Daniela Damian
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- \[ICSE 2024\] [Unveiling the Life Cycle of User Feedback: Best Practices from Software Practitioners](file/papers/icse24.pdf) <br>
+  <b>Ze Shi Li</b>, Nowshin Nawar Arony, Kezia Devathasan, Manish Sihag, Neil Ernst, and Daniela Damian <br>
+  In: The 46th IEEE/ACM International Conference on Software Engineering (ICSE), Lisbon, Portugal
 
-  <br>
+- \[ICSOB 2023\] [Understanding User Feedback in Software Ecosystems: A Study on Challenges and Mitigation Strategies](file/papers/icsob23.pdf) <br>
+  Bachan Ghimire, <b>Ze Shi Li</b>, and Daniela Damian <br>
+  In: The 14th International Conference on Software Business (ICSOB), Lahti, Finland <br>
+  <b>Best Paper Award</b>
 
-## Journal Paper
+- \[RE 2023\] [A Data-Driven Approach for Finding Requirements Relevant Feedback from TikTok and YouTube](file/papers/re23.pdf) <br>
+  Manish Sihag\*, <b>Ze Shi Li\*</b>, Amanda Dash, Nowshin Nawar Arony, Kezia Devathasan, Neil Ernst, Alexandra Branzan Albu, and Daniela Damian <br>
+  In: The 31st IEEE International Requirements Engineering Conference (RE), Hannover, Germany <br> \* Co-first authors
 
-- Coming soon! 🚀
+- \[ICSE-SEET 2023\] ["Software is the easy part of Software Engineering" -- Lessons and Experiences from A Large-Scale, Multi-Team Capstone Course](file/papers/icse_seet23_capstone.pdf) <br>
+  <b>Ze Shi Li</b>, Nowshin Nawar Arony, Kezia Devathasan, and Daniela Damian <br>
+  In: The 45th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET), Melbourne, Australia
 
-  <br>
+- \[ICSE-SEET 2023\] [Leveraging Diversity in Software Engineering Education through Community Engaged Learning and a Supportive Network](file/papers/icse_seet23_capstone.pdf) <br>
+  Nowshin Nawar Arony, Kezia Devathasan, <b>Ze Shi Li</b>, and Daniela Damian <br>
+  In: The 45th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET), Melbourne, Australia
+
+- \[RE 2022\] [Narratives: the Unforeseen Influencer of Privacy Concerns](file/papers/re22.pdf) <br>
+  <b>Ze Shi Li</b>, Manish Sihag, Nowshin Nawar Arony, Joao Bezerra Junior, Thanh Phan, Neil Ernst, and Daniela Damian <br>
+  In: The 30th IEEE International Requirements Engineering Conference (RE), Melbourne, Australia
+
+- \[IST\] [Towards privacy compliance: A design science study in a small organization](file/papers/ist22.pdf) <br>
+  <b>Ze Shi Li</b>, Colin Werner, Neil Ernst, and Daniela Damian <br>
+  In: Information and Software Technology, vol. 146, p. 106868, 2022.
+
+- \[TSE\] [Continuously Managing NFRs: Opportunities and Challenges in Practice](file/papers/tse21_nfrs.pdf) <br>
+  Colin Werner, <b>Ze Shi Li</b>, Derek Lowlind, Omar Elazhary, Neil Ernst, and Daniela Damian <br>
+  In: IEEE Transactions on Software Engineering, 2021.
+
+- \[TSE\] [Uncovering the Benefits and Challenges of Continuous Integration Practices](file/papers/tse21_ci.pdf) <br>
+  Omar Elazhary, Colin Werner, <b>Ze Shi Li</b>, Derek Lowlind, Omar Elazhary, Neil Ernst, and Margaret-Anne Storey <br>
+  In: IEEE Transactions on Software Engineering, 2021.
+
+- \[RE 2020\] [The lack of shared understanding of non-functional requirements in continuous software engineering: Accidental or essential?](file/papers/re20.pdf) <br>
+  Colin Werner, <b>Ze Shi Li</b>, Neil Ernst, and Daniela Damian <br>
+  In: The 28th IEEE International Requirements Engineering Conference (RE), Zurich, Switzerland
+
+- \[IEEE Software\] [Can a Machine Learn Through Customer Sentiment?: A Cost-Aware Approach to Predict Support Ticket Escalations](file/papers/ieee_software19.pdf) <br>
+  Colin Werner, <b>Ze Shi Li</b>, and Daniela Damian <br>
+  In: IEEE Software, 2019.
+
+<br>
 
 ---
 
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Undergrad Thesis
+<!-- ## Undergrad Thesis
 
 - Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
 
-  <br>
-
+  <br> -->
