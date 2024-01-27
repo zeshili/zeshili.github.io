@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://zeshili.gitub.io/images/zane" class="floatpic" width="360" height="480">
+<img src="https://zeshili.gitub.io/images/zane.jpg" class="floatpic" width="360" height="480">
 
 Here is **Ze Shi Li (Zane)**.
 
