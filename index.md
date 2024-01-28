@@ -6,7 +6,7 @@ layout: page
 
 <!-- <img src="https://zeshili.gitub.io/images/zane.jpg" class="floatpic" width="360" height="480"> -->
 
-I am a PhD student in **Computer Science** at the University of Victoria. Currently, I serve as a research assistant at SEGAL and Octera, advised by [Prof. Daniela Damian](https://www.danieladamian.ca/) and [Dr. Neil Ernst](https://neilernst.net/).<br>
+I am a PhD student in **Computer Science** at the University of Victoria. Currently, I serve as a research assistant at SEGAL and Octera, advised by [Prof. Daniela Damian](https://www.danieladamian.ca/) and [Dr. Neil Ernst](https://neilernst.net/).<br> <br>
 If you are interested to collaborate or chat, please email me at - _zane[dot]zeshili[at]gmail[dot]com_
 
 <!-- ## Academic Background
