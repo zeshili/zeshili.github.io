@@ -4,9 +4,9 @@ permalink: /teaching/index.html
 title: Teaching
 ---
 
-# Teaching
+## Teaching
 
-## Co-Instructor
+### Co-Instructor
 
 - <b>SENG321: Requirements Engineering (Spring 2024), University of Victoria</b> [Course Website](https://github.com/Uvic-SENG321Spring2024/course) <br>
   Responsibility: <br>
@@ -14,7 +14,7 @@ title: Teaching
   - prepared test questions and assessed students' learning outcomes.
   - spearheaded the structure of the semester-long experiential learning project, in which student teams assumed the role of a real-world organization and delivered a fully-fledged software prototype, adhering to requirements engineering and agile best practices.
 
-## Teaching Assistant
+### Teaching Assistant
 
 - CSC578B: Topics in Software Applications: "Data Science for Software Engineering" (Fall 2022), University of Victoria
 - SENG499: Design Project II (Summer 2022), University of Victoria
