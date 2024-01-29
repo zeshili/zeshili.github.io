@@ -39,7 +39,7 @@ My research interests encompass a range of strategies, tooling, and insights aim
 ## News and Updates
 
 - **Jan 2024：**I am excited to serve as Co-Instructor for the course SENG321: Requirements Engineering at the University of Victoria.
-- **Oct 2022：**Our paper "Understanding User Feedback in Software Ecosystems: A Study on Challenges and Mitigation Strategies" has been accepted by ICSOB 2023.
+- **Oct 2023：**Our paper "Understanding User Feedback in Software Ecosystems: A Study on Challenges and Mitigation Strategies" has been accepted by ICSOB 2023.
 - **Aug 2023：**Our paper "Unveiling the Life Cycle of User Feedback: Best Practices from Software Practitioners" has been accepted by ICSE 2024 Technical Track.
 - **May 2023：**Our paper "A Data-Driven Approach for Finding Requirements Relevant Feedback from TikTok and YouTube" has been accepted by the Requirements Engineering 2023 Technical Track.
 - **May 2022：**Started a research exchange at Singapore Management University, advised by Prof. David Lo.
