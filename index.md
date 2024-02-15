@@ -26,6 +26,7 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 ## Research Interests
 
 - AI for Software Engineering
+- Responsible AI
 - Human Aspects of Software Engineering
 - Requirements Engineering
 - User Feedback and Social Media Analysis
