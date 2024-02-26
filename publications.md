@@ -12,7 +12,10 @@ Lastest Update: Jan 27, 2024&nbsp;
   Nowshin Nawar Arony\*, <b>Ze Shi Li\*</b>, Bowen Xu, and Daniela Damian <br> \* Co-first authors
 
 - \[Preprint\] [Practices and Challenges of Conducting Requirement Engineering in Remote and Hybrid Work: A Mixed Method Study](file/papers/.pdf) <br>
-  <b>Ze Shi Li\*</b>, Delina Ly, Lukas Nagel, Nowshin Nawar Arony, and Daniela Damian
+  <b>Ze Shi Li</b>, Delina Ly, Lukas Nagel, Nowshin Nawar Arony, and Daniela Damian
+
+- \[Preprint\] [Quality Assurance for Artificial Intelligence: A Study of Industrial Key Concerns, Challenges and Best Practices](file/papers/preprint_qa.pdf) <br>
+  Chenyu Wang, Zhou Yang, <b>Ze Shi Li</b>, Daniela Damian, and David Lo
 
 - \[ICSE 2024\] [Unveiling the Life Cycle of User Feedback: Best Practices from Software Practitioners](file/papers/icse24.pdf) <br>
   <b>Ze Shi Li</b>, Nowshin Nawar Arony, Kezia Devathasan, Manish Sihag, Neil Ernst, and Daniela Damian <br>
