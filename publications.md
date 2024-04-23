@@ -15,7 +15,7 @@ Lastest Update: Jan 27, 2024&nbsp;
   Chenyu Wang, Zhou Yang, <b>Ze Shi Li</b>, Daniela Damian, and David Lo
 
 - \[RE24\] [Practices and Challenges of Conducting Requirement Engineering in Remote and Hybrid Work: A Mixed Method Study](file/papers/re24.pdf) <br>
-  <b>Ze Shi Li\*</b>, Delina Ly\_, Lukas Nagel, Nowshin Nawar Arony, and Daniela Damian <br> \* Co-first authors
+  <b>Ze Shi Li\*</b>, Delina Ly\*, Lukas Nagel, Nowshin Nawar Arony, and Daniela Damian <br> \* Co-first authors
 
 - \[ICSE 2024\] [Unveiling the Life Cycle of User Feedback: Best Practices from Software Practitioners](file/papers/icse24.pdf) <br>
   <b>Ze Shi Li</b>, Nowshin Nawar Arony, Kezia Devathasan, Manish Sihag, Neil Ernst, and Daniela Damian <br>
