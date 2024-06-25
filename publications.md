@@ -4,9 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: Jan 27, 2024&nbsp;
+Lastest Update: Jun 25, 2024&nbsp;
 
 ## Summary of Papers
+
+- \[Preprint\] [AI Tool Use and Adoption in Software Development by Individuals and Organizations: A Grounded Theory Study][file/preprint_adoption_ai_tools.pdf] <br>
+  <b>Ze Shi Li<b>, Nowshin Nawar Arony, Ahmed Musa Awon, Daniela Damian, and Bowen Xu
 
 - \[Preprint\] [Inclusiveness Matters: A Large-Scale Analysis of User Feedback](file/papers/preprint_inclusive.pdf) <br>
   Nowshin Nawar Arony\*, <b>Ze Shi Li\*</b>, Bowen Xu, and Daniela Damian <br> \* Co-first authors
