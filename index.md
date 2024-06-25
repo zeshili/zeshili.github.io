@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="https://zeshili.gitub.io/images/zane.jpg" class="floatpic" width="360" height="480"> -->
+<img src="https://zeshili.gitub.io/images/zane2.jpg" class="floatpic" width="360" height="480">
 
 I am a PhD student in **Computer Science** at the University of Victoria. <br> <br>
 If you are interested to collaborate or chat, please email me at - _zane.zeshili@gmail.com_
