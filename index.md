@@ -26,12 +26,13 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 ## Research Interests
 
 - AI for Software Engineering
+- Human Centered AI
 - Responsible AI
 - Human Aspects of Software Engineering
 - Requirements Engineering
 - User Feedback and Social Media Analysis
 
-My research interests encompass a range of strategies, tooling, and insights aimed at enhancing software development processes and practices. My current research focuses on building tools and techniques to synthesize raw online user feedback into requirements through empirical research, collaboration with industry practitioners, and analysis of online repositories. My work automates the process for end-user feedback analysis and brings forth best practices for effectively managing user feedback for requirements engineering.
+My current research focuses on leveraging AI to transform software engineering practices and improve human-centered AI adoption. My research also examines the socio-technical challenges of integrating AI into software development, focusing on improving accessibility, mitigating algorithmic biases, and fostering trust in AI systems.
 
 <br>
 
