@@ -6,8 +6,10 @@ layout: page
 
 <!-- <img src="https://zeshili.github.io/images/zane2.jpg" class="floatpic" width="360" height="480"> -->
 
-I am a PhD student in **Computer Science** at the University of Victoria. <br> <br>
-If you are interested to collaborate or chat, please email me at - _zane.zeshili@gmail.com_
+<!-- I am a PhD student in **Computer Science** at the University of Victoria. <br> <br> -->
+
+I will be joining the University of Oklahoma as a tenure-track Assistant Professor this fall.
+I am looking to <b>hire motivated PhD students.</b> If you are interested or just wanted to chat about collaborations, please email me at - _lize@uvic.ca_
 
 <!-- ## Academic Background
 
@@ -23,16 +25,17 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 
 ---
 
-## Research Interests
+## Research Areas
 
 - AI for Software Engineering
 - Human Centered AI
-- Responsible AI
+- Adoption of AI
 - Human Aspects of Software Engineering
+- Responsible AI
 - Requirements Engineering
 - User Feedback and Social Media Analysis
 
-My current research focuses on leveraging AI to transform software engineering practices and improve human-centered AI adoption. My research also examines the socio-technical challenges of integrating AI into software development, focusing on improving accessibility, mitigating algorithmic biases, and fostering trust in AI systems.
+I work in the general areas of software engineering as listed above. My current research focuses on leveraging AI to transform software engineering. My research also examines the socio-technical challenges of integrating AI into software development, focusing on improving accessibility, mitigating algorithmic biases, and fostering trust in AI systems.
 
 <br>
 
