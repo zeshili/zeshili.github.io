@@ -33,7 +33,6 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 - Human Aspects of Software Engineering
 - Responsible AI
 - Requirements Engineering
-- User Feedback and Social Media Analysis
 
 I work in the general areas of software engineering as listed above. My current research focuses on leveraging AI to transform software engineering. My research also examines the socio-technical challenges of integrating AI into software development, focusing on improving accessibility, mitigating algorithmic biases, and fostering trust in AI systems.
 
@@ -43,6 +42,9 @@ I work in the general areas of software engineering as listed above. My current 
 
 ## News and Updates
 
+- **July 2025：**I am excited to announce that I will be joining the University of Oklahoma in August 2025 as an assistant professor.
+- **June 2025：**Our paper "Objectifying the Subjective: Cognitive Biases in Topic Interpretations" has been accepted by Association for Computational Linguistics.
+- **May 2025：**Our paper "Feature Noise Resilient for QoS Prediction with Probabilistic Deep Supervision" has been accepted by Transactions on Service Computing.
 - **Jan 2024：**I am excited to serve as Co-Instructor for the course SENG321: Requirements Engineering at the University of Victoria.
 - **Oct 2023：**Our paper "Understanding User Feedback in Software Ecosystems: A Study on Challenges and Mitigation Strategies" has been accepted by ICSOB 2023.
 - **Aug 2023：**Our paper "Unveiling the Life Cycle of User Feedback: Best Practices from Software Practitioners" has been accepted by ICSE 2024 Technical Track.

@@ -4,18 +4,38 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: Jun 25, 2024&nbsp;
+Lastest Update: July 10, 2025&nbsp;
 
 ## Summary of Papers
 
-- \[Preprint\] [AI Tool Use and Adoption in Software Development by Individuals and Organizations: A Grounded Theory Study](file/preprint_adoption_ai_tools.pdf) <br>
-  <b>Ze Shi Li</b>, Nowshin Nawar Arony, Ahmed Musa Awon, Daniela Damian, and Bowen Xu
+- \[Preprint\] [Devmojis: An Annotation Tool for Understanding Programming Behavior](file/) <br>
+  Yinan Wu, Yogesh Hasabe, <b>Ze Shi Li</b>, Zhou Yang, and Bowen Xu
+
+- \[Preprint\] [How Does Generative AI Impact Developer Programming Behavior?](file/) <br>
+  Yinan Wu, <b>Ze Shi Li</b>, Kathryn Stolee, and Bowen Xu
 
 - \[Preprint\] [Inclusiveness Matters: A Large-Scale Analysis of User Feedback](file/papers/preprint_inclusive.pdf) <br>
   Nowshin Nawar Arony\*, <b>Ze Shi Li\*</b>, Bowen Xu, and Daniela Damian <br> \* Co-first authors
 
 - \[Preprint\] [Quality Assurance for Artificial Intelligence: A Study of Industrial Key Concerns, Challenges and Best Practices](file/papers/preprint_qa.pdf) <br>
   Chenyu Wang, Zhou Yang, <b>Ze Shi Li</b>, Daniela Damian, and David Lo
+
+- \[Preprint\] [Dual Latent State Learning: Exploiting Regional Network Similarities for QoS Prediction](file/.pdf) <br>
+  Wang Ziliang, Xiaohong Zhang, Kechi Zhang, <b>Ze Shi Li</b>, and Yan Meng
+
+- \[Preprint\] [A Region-Aware Dual Latent State Mining Framework for Service Recommendation in Large-Scale Service Networks](file/.pdf) <br>
+  Wang Ziliang, Xiaohong Zhang, <b>Ze Shi Li</b>, and Yan Meng
+
+- \[Preprint\] [QoSBERT: An Uncertainty-Aware Approach Based on Pre-trained Language Models for Service Quality Prediction](file/.pdf) <br>
+  Wang Ziliang, Xiaohong Zhang, <b>Ze Shi Li</b>, and Yan Meng
+
+- \[TSC\] [Feature Noise Resilient for QoS Prediction with Probabilistic Deep Supervision](file/.pdf) <br>
+  Wang Ziliang, Xiaohong Zhang, <b>Ze Shi Li</b>, Sheng Huang, and Yan Meng <br>
+  To appear in IEEE Transactions on Services Computing
+
+- \[TACL\] [Objectifying the Subjective: Cognitive Biases in Topic Interpretations](file/.pdf) <br>
+  Swapnil Hingmire, <b>Ze Shi Li</b>, Vivienne Zeng, Ahmed Musa Awon, Luiz Franciscatto Guerra, Neil Ernst <br>
+  To appear in Transactions of the Association for Computational Linguistics
 
 - \[RE24\] [Practices and Challenges of Conducting Requirement Engineering in Remote and Hybrid Work: A Mixed Method Study](file/papers/re24.pdf) <br>
   <b>Ze Shi Li\*</b>, Delina Ly\*, Lukas Nagel, Nowshin Nawar Arony, and Daniela Damian <br> \* Co-first authors
