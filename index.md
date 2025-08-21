@@ -8,8 +8,8 @@ layout: page
 
 <!-- I am a PhD student in **Computer Science** at the University of Victoria. <br> <br> -->
 
-I will be joining the University of Oklahoma as a tenure-track Assistant Professor this fall.
-I am looking to <b>hire motivated PhD students.</b> If you are interested or just wanted to chat about collaborations, please email me at - _lize@uvic.ca_
+I am a tenure-track assistant professor in the School of Computer Science at the University of Oklahoma.
+I am looking to <b>hire motivated PhD students.</b> If you are interested or just wanted to chat about collaborations, please email me at - _zeshili@ou.edu_
 
 <!-- ## Academic Background
 
